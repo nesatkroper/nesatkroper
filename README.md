@@ -25,6 +25,13 @@
 - Email: your.email@example.com
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
+  ## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+
+## 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🔥 Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
